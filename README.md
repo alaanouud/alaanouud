@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there I'm Alanoud salem Almutairi
+ I'm Alanoud salem Almutairi
 
 🚀 Data Scientist 
 
