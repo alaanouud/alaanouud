@@ -59,24 +59,7 @@
 
 </p>
 
-### 👉 Frameworks
 
-<p align="left"> 
-
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  
-</p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
@@ -84,14 +67,19 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- </p>
+  
  &emsp;
     <a href="https://https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="sql-server Pages" src="https://img.shields.io/badge/sql-server-FF6F00?style=for-the-badge&logo"></a>
  </p>
 
 
+&emsp;
+    <a href="https://www.mongodb.com/nosql-explained/"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-07405E?style=for-the-badge&logo=NoSQL&logoColor=white"></a>
+    
+    
+    
+&emsp;
+    <a href="https://www.Apache.com/nosql-explained/"><img alt="Apache" src="https://img.shields.io/badge/Apache-07405E?style=for-the-badge&logo=Apache&logoColor=white"></a>
 
 
 
@@ -104,21 +92,23 @@
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+ 
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  
+ 
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="#"><img alt="ETL" src="https://img.shields.io/badge/ETL-FCC624?style=for-the-badge&logo=ETL&logoColor=black"></a>
  
- 
+  &emsp;
+    <a href="#"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-ED8B00?style=for-the-badge&logo=Hadoop&logoColor=black"></a>
   
-  
-  
+  &emsp;
+    <a href="#"><img alt="Zookeeper" src="https://img.shields.io/badge/Zookeeper-1DA1F2?style=for-the-badge&logo=Zookeeper&logoColor=black"></a>
+
   
   
   
