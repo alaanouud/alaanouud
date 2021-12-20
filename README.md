@@ -53,6 +53,8 @@
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
+  
+
 
 
 </p>
@@ -73,10 +75,7 @@
   <a href="https://keras.io/" target="_blank"> 
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/flask-EE4C2C?style=for-the-badge&logo=flask&logoColor=white"/>
-  </a>
+  
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -88,7 +87,9 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
-
+ &emsp;
+    <a href="https://https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="sql-server Pages" src="https://img.shields.io/badge/sql-server-FF6F00?style=for-the-badge&logo"></a>
+ </p>
 
 
 
@@ -111,6 +112,9 @@
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+ 
  
   
   
