@@ -13,37 +13,5 @@
  -->
 
 
-### My Projects:
-  
-<a href="https://github.com/alaanouud/
-EDA-Project
-.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=
-EDA-Project
-&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/alaanouud/
-Regression-Project.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=
-Regression-Project&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/alaanouud/S
-Classification-Project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=
-Classification-Project&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/alaanouud/
-Unsupervised-Project">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=
-Unsupervised-Project&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/alaanouud/
-deep-learning">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=deep-learning&theme=tokyonight" />
-</a>
-![image](https://user-images.githubusercontent.com/81470200/146746405-02043f6f-dab8-4865-bde9-24133c681f9e.png)
 
