@@ -51,8 +51,12 @@
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
+   &emsp;
+<a href="#"><img src="http://img.shields.io/badge/c%23%20-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  &emsp;
+    <a href="https://www.Apache.com
+/Apache-explained//"><img alt="Apache" src="https://img.shields.io/badge/Apache-07405E?style=for-the-badge&logo=Apache&logoColor=white"></a>
 
-</p>
 
 
 
@@ -62,20 +66,10 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  
  &emsp;
     <a href="https://https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="sql-server Pages" src="https://img.shields.io/badge/sql-server-FF6F00?style=for-the-badge&logo"></a>
- </p>
-
-
 &emsp;
     <a href="https://www.mongodb.com/nosql-explained/"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-07405E?style=for-the-badge&logo=NoSQL&logoColor=white"></a>
-    
-    
-    
-&emsp;
-    <a href="https://www.Apache.com
-/Apache-explained//"><img alt="Apache" src="https://img.shields.io/badge/Apache-07405E?style=for-the-badge&logo=Apache&logoColor=white"></a>
 
 
 
@@ -83,38 +77,23 @@
 
 
  ### 👉 Software & Tools
- 
 <p>
-
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
   &emsp;
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  &emsp;
+<a href="#"><img src="https://img.shields.io/badge/jquery%20-%230769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  &emsp;
+<a href="#"><img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
+  &emsp;
+   <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/ETL-FCC624?style=for-the-badge&logo=ETL&logoColor=black"></a>
 
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
-    &emsp;
-<a href="#"><img src="http://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
-  &emsp;
-<a href="#"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
-  &emsp;
-<a href="#"><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-</p>  
-  
  
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  
- 
-  &emsp;
-    <a href="#"><img alt="ETL" src="https://img.shields.io/badge/ETL-FCC624?style=for-the-badge&logo=ETL&logoColor=black"></a>
- 
-  &emsp;
-    <a href="#"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-ED8B00?style=for-the-badge&logo=Hadoop&logoColor=black"/>
-  
-  &emsp;
-    <a href="#"><img alt="Zookeeper" src="https://img.shields.io/badge/Zookeeper-1DA1F2?style=for-the-badge&logo=Zookeeper&logoColor=black"></a>
-
   
   
   
