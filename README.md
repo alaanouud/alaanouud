@@ -79,10 +79,8 @@
     
     
 &emsp;
-    <a href="https://www.Apache.com/nosql-explained/"><img alt="Apache" src="https://img.shields.io/badge/Apache-07405E?style=for-the-badge&logo=Apache&logoColor=white"></a>
-
-
-
+    <a href="https://www.Apache.com
+/Apache-explained//"><img alt="Apache" src="https://img.shields.io/badge/Apache-07405E?style=for-the-badge&logo=Apache&logoColor=white"></a>
 
 
 
