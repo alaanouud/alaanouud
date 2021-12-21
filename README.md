@@ -9,12 +9,12 @@
 </a>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme=tokyonight)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme=darkgreen)
  -->
  
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alaanouud&theme=&theme=tokyonight")
-
-
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alaanouud&theme=&theme=darkgreen")
+darkgreen
+tokyonight
 ### 📉 SDAIA_T5 Projects 📉:
   
 <a href="https://github.com/alaanouud/EDA-Project.git">
