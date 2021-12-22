@@ -1,4 +1,9 @@
-### Welcome to my personal github  👋
+
+
+
+</p>
+<h1> Welcome to my personal github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" />
