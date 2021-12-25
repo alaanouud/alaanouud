@@ -38,9 +38,6 @@ tokyonight
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Unsupervised-Project&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/alaanouud/deep-learning.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=deep-learning&theme=tokyonight" />
-</a>
 
 
 
