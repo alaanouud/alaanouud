@@ -77,9 +77,10 @@ tokyonight
     <a href="https://www.mongodb.com/nosql-explained/"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-07405E?style=for-the-badge&logo=NoSQL&logoColor=white"></a>
 
 
+&emsp;
+    <a href="https://www.cloudera.com/products/data-warehouse.html/nosql-explained/"><img alt="data-warehouse" src="https://img.shields.io/badge/data-warehouse-07405E?style=for-the-badge&logo=NoSQL&logoColor=white"></a>
 
-
-
+  
 
  ### 👉 Software & Tools
 <p>
