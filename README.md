@@ -72,8 +72,6 @@ tokyonight
     <a href="https://https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="sql-server Pages" src="https://img.shields.io/badge/sql-server-FF6F00?style=for-the-badge&logo"></a>
 &emsp;
     <a href="https://www.mongodb.com/nosql-explained/"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-07405E?style=for-the-badge&logo=NoSQL&logoColor=white"></a>
-
-
 &emsp;
     <a href="https://www.cloudera.com/products/data-warehouse.html/nosql-explained/"><img alt="data-warehouse" src="https://img.shields.io/badge/data-warehouse-07405E?style=for-the-badge&logo=NoSQL&logoColor=white"></a>
 
@@ -93,7 +91,6 @@ tokyonight
 <a href="#"><img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
   &emsp;
    <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
- &emsp;
     <a href="#"><img src="https://img.shields.io/badge/ETL-FCC624?style=for-the-badge&logo=ETL&logoColor=black"></a>
 
  
