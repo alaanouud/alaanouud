@@ -6,15 +6,15 @@
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=white" />
 </a>
 
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme=tokyonight" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme=white" />
 </a>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=white)
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme=white)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme="white/>)
  -->
  
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alaanouud&theme=&theme=white")
@@ -23,19 +23,19 @@ tokyonight
 ### 📉 SDAIA_T5 Projects 📉:
   
 <a href="https://github.com/alaanouud/EDA-Project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=EDA-Project&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=EDA-Project&theme=white" />
 </a>
 
 <a href="https://github.com/alaanouud/Regression-Project.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Regression-Project&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Regression-Project&theme=white" />
 </a>
 
 <a href="https://github.com/alaanouud/Classification-Project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Classification-Project&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Classification-Project&theme=white" />
 </a>
 
 <a href="https://github.com/alaanouud/Unsupervised-Project.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Unsupervised-Project&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Unsupervised-Project&theme=white" />
 </a>
 
 
