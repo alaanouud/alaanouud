@@ -34,8 +34,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Classification-Project&theme=white" />
 </a>
 
-<a href="https://github.com/alaanouud/Unsupervised-Project.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=Unsupervised-Project&theme=white" />
+<a href="https://github.com/alaanouud/NLP-Project.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaanouud&repo=NLP-Project&theme=white" />
+
 </a>
 
 
