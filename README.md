@@ -56,11 +56,7 @@
   </a>
    &emsp;
 <a href="#"><img src="http://img.shields.io/badge/c%23%20-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  &emsp;
-    <a href="https://www.Apache.com
-/Apache-explained//"><img alt="Apache" src="https://img.shields.io/badge/Apache-07405E?style=for-the-badge&logo=Apache&logoColor=white"></a>
-
-&emsp;
+  
     <a href="https://www.php.net/
 /php-explained//"><img alt="php" src="https://img.shields.io/badge/php-07405E?style=for-the-badge&logo=php&logoColor=white"></a>
 
