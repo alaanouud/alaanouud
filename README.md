@@ -60,6 +60,11 @@
     <a href="https://www.Apache.com
 /Apache-explained//"><img alt="Apache" src="https://img.shields.io/badge/Apache-07405E?style=for-the-badge&logo=Apache&logoColor=white"></a>
 
+&emsp;
+    <a href="https://www.php.net/
+/php-explained//"><img alt="php" src="https://img.shields.io/badge/php-07405E?style=for-the-badge&logo=php&logoColor=white"></a>
+
+
 
 
 
