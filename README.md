@@ -9,14 +9,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=white" />
 </a>
 
-
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme=white" />
 </a>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=white)
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=alaanouud&include_all_commits=true&count_private=true&theme="white/>)
  -->
- 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
@@ -26,7 +24,6 @@
 <br><br><br><br><br>
 
 <hr>
-
 
 
 ### 📉 SDAIA_T5 Projects 📉:
@@ -105,15 +102,6 @@
     <a href="#"><img src="https://img.shields.io/badge/ETL-FCC624?style=for-the-badge&logo=ETL&logoColor=black"></a>
 
  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
