@@ -29,14 +29,6 @@
 
 
 
-
-
-
-
-
-
-
-
 ### 📉 SDAIA_T5 Projects 📉:
   
 <a href="https://github.com/alaanouud/EDA-Project.git">
