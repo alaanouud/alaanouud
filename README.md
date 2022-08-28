@@ -8,17 +8,6 @@ Welcome to Alanoud's profile!
 </h1>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"height="200"/>
-</div>
-
-
-
-
-
-
-
-
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaanouud&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=white" />
