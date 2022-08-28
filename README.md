@@ -7,6 +7,10 @@ Welcome to Alanoud's profile!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"height="200"/>
+</div>
+
 
 
 
