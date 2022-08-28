@@ -97,21 +97,10 @@ Welcome to Alanoud's profile!
   
 
  ### 👉 Software & Tools
-<p>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  &emsp;
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  &emsp;
-<a href="#"><img src="https://img.shields.io/badge/jquery%20-%230769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  &emsp;
-<a href="#"><img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
-  &emsp;
-   <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/ETL-FCC624?style=for-the-badge&logo=ETL&logoColor=black"></a>
-
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
  
   
   
