@@ -70,7 +70,6 @@ Welcome to Alanoud's profile!
 /php-explained//"><img alt="php" src="https://img.shields.io/badge/php-07405E?style=for-the-badge&logo=php&logoColor=white"></a>
 
 ### Frameworks and libraries : 
-  p align="left"> 
 &emsp;
   <a href="https://laravel.com/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/laravel-02569B?style=for-the-badge&logo=laravel&logoColor=white">
