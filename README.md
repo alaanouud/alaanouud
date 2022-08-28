@@ -1,8 +1,6 @@
 
 
 
-</p>
-<h1> Welcome to my personal github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <h1 align ="center">
 Welcome to Alanoud's profile! 
