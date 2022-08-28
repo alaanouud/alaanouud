@@ -69,7 +69,11 @@ Welcome to Alanoud's profile!
     <a href="https://www.php.net/
 /php-explained//"><img alt="php" src="https://img.shields.io/badge/php-07405E?style=for-the-badge&logo=php&logoColor=white"></a>
 
-
+### Frameworks and libraries : 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
 
