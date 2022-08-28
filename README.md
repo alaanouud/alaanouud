@@ -70,6 +70,11 @@ Welcome to Alanoud's profile!
 /php-explained//"><img alt="php" src="https://img.shields.io/badge/php-07405E?style=for-the-badge&logo=php&logoColor=white"></a>
 
 ### Frameworks and libraries : 
+  p align="left"> 
+&emsp;
+  <a href="https://laravel.com/" target="_blank"> 
+     <img alt="Flutter" src="https://img.shields.io/badge/laravel-02569B?style=for-the-badge&logo=laravel&logoColor=white">
+   </a>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
