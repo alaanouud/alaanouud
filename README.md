@@ -33,8 +33,6 @@ Welcome to Alanoud profile!
     <a href="https://www.php.net/
 /php-explained//"><img alt="php" src="https://img.shields.io/badge/php-07405E?style=for-the-badge&logo=php&logoColor=white"></a>
 
-JavaScript
-
 &emsp;
     <a href="https://www.JavaScript.net/
 /JavaScript-explained//"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-07405E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
