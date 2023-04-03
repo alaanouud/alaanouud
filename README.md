@@ -82,13 +82,7 @@ Welcome to Alanoud profile!
   
   
   
-  <h1> Connect with me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h1>
-&emsp;
-<a target="_blank" href="mailto:alaanouud@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
 
-  
   
   
   
